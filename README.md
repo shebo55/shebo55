@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-shebo55/shebo55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+shebo55/shebo55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHu b profile.
 You can click the Preview link to take a look at your changes.
 --->
